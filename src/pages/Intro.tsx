@@ -43,7 +43,7 @@ const Intro = () => {
         </div>
 
         <h1 className="text-6xl md:text-8xl font-bold mb-4 bg-music-gradient bg-clip-text text-transparent animate-pulse">
-          EchoStream
+          DJ BHAVIN
         </h1>
         
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
@@ -82,5 +82,6 @@ const Intro = () => {
     </div>
   );
 };
+
 
 export default Intro;
