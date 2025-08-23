@@ -133,7 +133,7 @@ const Home = () => {
 
             <div className="flex items-center gap-4">
               <Link to="/contact">
-                <Button variant="ghost" size="sm">
+                <Button variant="outline" size="sm">
                   <Phone className="w-4 h-4" />
                   Contact
                 </Button>
@@ -336,4 +336,5 @@ const Home = () => {
 };
 
 export default Home;
+
 
