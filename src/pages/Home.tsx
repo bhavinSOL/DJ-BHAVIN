@@ -127,7 +127,7 @@ const Home = () => {
                 <Music className="w-6 h-6 text-white" />
               </div>
               <h1 className="text-2xl font-bold bg-music-gradient bg-clip-text text-transparent">
-                EchoStream
+                DJ BHAVIN
               </h1>
             </div>
 
@@ -136,12 +136,6 @@ const Home = () => {
                 <Button variant="ghost" size="sm">
                   <Phone className="w-4 h-4" />
                   Contact
-                </Button>
-              </Link>
-              <Link to="/admin">
-                <Button variant="outline" size="sm">
-                  <Settings className="w-4 h-4" />
-                  Admin
                 </Button>
               </Link>
             </div>
@@ -342,3 +336,4 @@ const Home = () => {
 };
 
 export default Home;
+
